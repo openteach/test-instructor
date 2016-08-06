@@ -1,0 +1,10 @@
+{
+	"name" : "Mads Buch",
+	"courses" : [
+		{
+			"ghUser" : "openteach",
+			"ghRepo" : "test-course",
+			"base"   : "/course"
+		}
+	]
+}
