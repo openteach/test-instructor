@@ -5,6 +5,11 @@
 			"ghUser" : "openteach",
 			"ghRepo" : "test-course",
 			"base"   : "/course"
+		},
+		{
+			"ghUser" : "openteach",
+			"ghRepo" : "test-instructor",
+			"base"   : "/some-course"
 		}
 	]
 }
