@@ -4,12 +4,12 @@
 		{
 			"ghUser" : "openteach",
 			"ghRepo" : "test-course",
-			"base"   : "/course"
+			"base"   : "/book"
 		},
 		{
 			"ghUser" : "openteach",
 			"ghRepo" : "test-instructor",
-			"base"   : "/some-course"
+			"base"   : "/some-book"
 		}
 	]
 }
