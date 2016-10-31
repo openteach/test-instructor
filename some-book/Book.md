@@ -22,12 +22,6 @@ title: Test Book GitHub Instructor
 
 Alternatively, for H1 and H2, an underline-ish style:
 
-Alt-H1
-======
-
-Alt-H2
-------
-
 # Emphasis
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
