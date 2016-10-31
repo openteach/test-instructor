@@ -20,4 +20,6 @@ This is a book hosted in the instructor repository.
 
 ###### Header 6
 
+* Step one
+    * Step two.
 
