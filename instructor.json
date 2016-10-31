@@ -1,6 +1,6 @@
 {
 	"name" : "Mads Buch",
-	"courses" : [
+	"books" : [
 		{
 			"ghUser" : "openteach",
 			"ghRepo" : "test-course",
